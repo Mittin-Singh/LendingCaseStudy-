@@ -71,8 +71,6 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-
-- This project was inspired by live session of upGrad on EDA by [Aditya Bhattacharya](https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/)
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 ## Collaborators
