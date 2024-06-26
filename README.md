@@ -73,6 +73,3 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 ## Acknowledgements
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
-## Collaborators
-
-Created by [@Mittinpreet](https://github.com/) and [@Melvin John](https://github.com/)
